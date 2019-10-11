@@ -1,5 +1,4 @@
 {
-  "abandoned": "aedart/athenaeum",
   "name": "aedart/dto",
   "description": "A variation / interpretation of the Data Transfer Object (DTO) design pattern (Distribution Pattern). Provides an abstraction for such DTOs",
   "keywords": [

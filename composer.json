@@ -20,8 +20,8 @@
     "php": ">=7.1.0",
     "aedart/overload": "~5.0",
     "aedart/util": "~5.0",
-    "illuminate/container": "5.6.*",
-    "illuminate/support": "5.6.*"
+    "illuminate/container": "^5.8.*",
+    "illuminate/support": "^5.8.*"
   },
   "require-dev": {
     "aedart/license": "1.*",
